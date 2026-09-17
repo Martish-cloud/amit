@@ -90,6 +90,16 @@ I provide freelance services through **Fiverr, Upwork, Freelancer, PeoplePerHour
 
 ---
 
+# 🌍 Languages
+
+- 🇮🇳 **Bengali** — Native
+- 🇬🇧 **English** — Professional
+- 🇮🇳 **Hindi** — Professional
+- 🇮🇳 **Assamese** — Basic
+- 🇫🇷 **French** — Elementary
+
+---
+
 # 🎯 My Mission
 
 > **Learn continuously. Build intelligently. Automate intelligently. Create meaningful impact.**
